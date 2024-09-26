@@ -1,0 +1,98 @@
+[
+  {
+    "recipe_id": "1",
+    "recipe_name": "Grilled Chicken Salad",
+    "description": "A healthy and fresh salad with grilled chicken, vegetables, and a light vinaigrette dressing.",
+    "ingredients": [
+      "300 g chicken breast",
+      "100 g lettuce",
+      "50 g cherry tomatoes",
+      "30 g red onions",
+      "2 tbsp olive oil",
+      "1 tbsp lemon juice"
+    ],
+    "preparing_time": "25 miminutesn",
+    "calories": "250 calories",
+    "recipe_image": "https://example.com/grilled-chicken-salad.jpg"
+  },
+  {
+    "recipe_id": "2",
+    "recipe_name": "Spaghetti Carbonara",
+    "description": "Classic Italian pasta dish with creamy sauce, pancetta, and Parmesan cheese.",
+    "ingredients": [
+      "200 g spaghetti",
+      "100 g pancetta",
+      "2 eggs",
+      "50 g Parmesan cheese",
+      "1 clove garlic",
+      "2 tbsp olive oil"
+    ],
+    "preparing_time": "20 minutes",
+    "calories": "450 calories",
+    "recipe_image": "https://example.com/spaghetti-carbonara.jpg"
+  },
+  {
+    "recipe_id": "3",
+    "recipe_name": "Vegetarian Stir-fry",
+    "description": "A quick and easy stir-fry with mixed vegetables and a savory soy sauce.",
+    "ingredients": [
+      "100 g bell peppers",
+      "100 g broccoli",
+      "50 g carrots",
+      "50 g mushrooms",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil"
+    ],
+    "preparing_time": "15 minutes",
+    "calories": "180 calories",
+    "recipe_image": "https://example.com/vegetarian-stirfry.jpg"
+  },
+  {
+    "recipe_id": "4",
+    "recipe_name": "Beef Tacos",
+    "description": "Tasty and filling tacos with seasoned beef, cheese, and fresh vegetables.",
+    "ingredients": [
+      "300 g ground beef",
+      "6 taco shells",
+      "50 g shredded lettuce",
+      "50 g cheddar cheese",
+      "2 tbsp taco seasoning",
+      "50 g sour cream"
+    ],
+    "preparing_time": "30 minutes",
+    "calories": "400 calories",
+    "recipe_image": "https://example.com/beef-tacos.jpg"
+  },
+  {
+    "recipe_id": "5",
+    "recipe_name": "Banana Pancakes",
+    "description": "Fluffy pancakes made with mashed bananas, served with maple syrup and fresh fruit.",
+    "ingredients": [
+      "2 bananas",
+      "150 g flour",
+      "200 ml milk",
+      "1 egg",
+      "1 tsp baking powder",
+      "1 tbsp sugar"
+    ],
+    "preparing_time": "20 minutes",
+    "calories": "350 calories",
+    "recipe_image": "https://example.com/banana-pancakes.jpg"
+  },
+  {
+    "recipe_id": "6",
+    "recipe_name": "Lemon Garlic Shrimp",
+    "description": "Juicy shrimp sautéed in a tangy lemon garlic sauce, perfect for a light dinner.",
+    "ingredients": [
+      "200 g shrimp",
+      "2 cloves garlic",
+      "1 lemon",
+      "2 tbsp butter",
+      "1 tbsp parsley",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "15 minutes",
+    "calories": "220 calories",
+    "recipe_image": "https://example.com/lemon-garlic-shrimp.jpg"
+  }
+]
