@@ -10,7 +10,6 @@ function App() {
       <Header />
       <Banner />
       <Recipes />
-      <h2 className='text-3xl'>Hello bangladesh</h2>
     </>
   )
 }

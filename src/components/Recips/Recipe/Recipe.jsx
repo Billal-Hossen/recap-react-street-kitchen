@@ -3,10 +3,10 @@ import { FaFire } from "react-icons/fa";
 
 import item from '../../../assets/images/item-1.png'
 
-export default function Recipe({ recipe }) {
+export default function Recipe({ recipe, handleCookRecipes }) {
   const { recipe_id, recipe_name, description, ingredients, preparing_time, calories } = recipe
   return (
-    <div className="card bg-base-100 w-96 shadow-xl">
+    <div className="card bg-base-100 w-auto my-3 md:my-0 shadow-xl">
       <figure>
         <img
           src={item}
@@ -33,7 +33,7 @@ export default function Recipe({ recipe }) {
           <h5 className='flex items-center '><span className='mr-2 text-lg'><CiClock2 /></span> {preparing_time}</h5>
           <h5 className='flex items-center'><span className='mr-2 text-lg'><FaFire /></span>{calories}</h5>
         </div>
-        <button className='btn  bg-green-500 text-white rounded-full hover:bg-purple-500'>Want to Cook</button>
+        <button className='btn  bg-green-500 text-white rounded-full hover:bg-purple-500' onClick={() => handleCookRecipes(recipe)}>Want to Cook</button>
       </div>
     </div>
   )
